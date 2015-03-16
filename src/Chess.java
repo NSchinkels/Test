@@ -5,3 +5,7 @@ public class Chess {
 		System.out.println("Geschrieben nicht in ecplise");
 	}
 }
+
+public void method2{
+	
+}
