@@ -7,8 +7,14 @@ public class Chess {
 		//in ecplise danach geschrieben
 		System.out.println("Geschrieben nicht in ecplise");
 	}
+	
+	public static void testmethode(){
+		System.out.println("Test für Synchronisation");
+	}
+	
 	public static void main(String[] args){
 		new Chess();
+		testmethode();
 	}
 
 
