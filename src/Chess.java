@@ -10,6 +10,7 @@ public class Chess {
 	
 	public static void testmethode(){
 		System.out.println("Test für Synchronisation");
+		System.out.println("Test für Synchro#2");
 	}
 	
 	public static void main(String[] args){
